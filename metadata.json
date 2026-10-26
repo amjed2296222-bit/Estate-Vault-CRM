@@ -1,0 +1,6 @@
+{
+  "name": "Estate Vault CRM",
+  "description": "An independent, secure real estate operating system and CRM for property listings, clients, leads pipeline, financial accounts, and investors ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
